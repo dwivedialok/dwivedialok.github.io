@@ -60,7 +60,7 @@ collections:
 
 # Prose
 prose:
-  siteurl: 'https://damianeoloan.github.io/jekyllorg'
+  siteurl: 'https:///dwivedialok.github.io'
   media: 'images'
   ignore:
     - /_layouts
