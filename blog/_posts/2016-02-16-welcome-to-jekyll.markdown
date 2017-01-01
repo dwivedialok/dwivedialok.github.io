@@ -5,7 +5,7 @@ date: {}
 published: true
 ---
 ## Mission statement
-Foster a culture that can bring socio-economic change for motivating fortunate members of the society to make a difference in the lives of less fortunate by helping them in affording necessary medical treatment -  fundamental need of a healthy society. Make our lives ‘saarthak’ by improving lives of others in need.
+_Foster a culture that can bring socio-economic change for motivating fortunate members of the society to make a difference in the lives of less fortunate by helping them in affording necessary medical treatment -  fundamental need of a healthy society. Make our lives ‘saarthak’ by improving lives of others in need._
 
 ## Core Values
 Our mission is based on certain core values that we not only cherish but use as our compass to help us get to the ‘True North’. 
