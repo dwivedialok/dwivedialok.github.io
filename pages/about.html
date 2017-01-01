@@ -1,9 +1,12 @@
 ---
 layout: page
 title: About
-description: "add a brief summary of your organization here" # Optional
-introduction: "This is the About page for your site. Add your introduction here. You'll find a guide to JekyllOrg on the homepage." # Optional
+description: add a brief summary of your organization here
+introduction: >-
+  This is the About page for your site. Add your introduction here. You'll find
+  a guide to JekyllOrg on the homepage.
 permalink: /about/
+published: true
 ---
 <!-- About page introduction -->
 <p class="post-content collection-content">{{ page.introduction }}</p>
@@ -38,13 +41,6 @@ permalink: /about/
   </div>
 </section>
 {% endif %}<!-- End team members -->
-<!-- Careers link -->
-{% if site.data.career-vacancies.size > 0 %}
-<a href="{{ '/careers' | prepend: site.baseurl }}" title="{{ site.title | prepend: 'Careers at '}}" class="careers-link">
-  <h2>we're hiring!</h2>
-  <p>{{ site.title | prepend: 'See all current vacancies at ' }}</p>
-</a><!-- End careers link -->
-{% endif %}
 
 {% if site.data.locations.size > 0 %}
 <!-- Office locations map -->
