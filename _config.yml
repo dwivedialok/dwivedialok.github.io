@@ -7,6 +7,7 @@
 
 # Site settings
 title: Saarthak
+introduction: The goal of this charity is to start a very basic community funded system to finance medical treatment for very poor patients in India. 
 description: Make our lives ‘saarthak’ by improving lives of others in need
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dwivedialok.github.io" # the base hostname & protocol for your site
