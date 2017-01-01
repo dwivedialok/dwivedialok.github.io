@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Saarthak
-date: {}
+date: 2017-01-01T00:00:00.000Z
 published: true
 ---
 ## Mission statement
@@ -22,5 +22,4 @@ We believe in a flat hierarchy. Hence we have a small team of highly motivated p
 ### Collective decision making
 All our decisions are conducted through joint meetings, conference calls, group chats where every member participates as per their knowledge on the subject and then we take a collective decision. 
 ### Collective responsibility
-Since we believe in collective decision, we also take collective responsibility for our actions. We understand our ethical boundaries and strive to adhere to them in every possible way. 
-
+Since we believe in collective decision, we also take collective responsibility for our actions. We understand our ethical boundaries and strive to adhere to them in every possible way.
